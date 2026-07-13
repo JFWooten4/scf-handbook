@@ -4,7 +4,7 @@ The SCF Growth Hack is a program to support Stellar mainnet-launched companies o
 
 For each cohort, the SCF Growth Hack program will target 10-15 companies that have launched on Stellar mainnet, providing them with USD $20,000 worth of XLM each to test acquisition strategies over an 8-week campaign (comprising a 4-week acquisition campaign and a 4-week retention campaign).&#x20;
 
-Top-performing companies will share up to USD $200K worth of XLM in additional performance-based awards. This program aims to help teams find PMF at an accelerated pace and serves as a bridge between development funding (SCF Build Award) and further growth (the SDF Marketing Grant and Matching Fund Investment Readiness).
+Top-performing companies will share up to USD $200K worth of XLM in additional performance-based awards. This program aims to help teams find PMF at an accelerated pace and serves as a bridge between development funding (SCF Build Award) and further growth (SDF Marketing Grant and Matching Fund Investment Readiness).
 
 Each Project in the SCF Growth Hack needs to adhere to the [Participant Eligibility Rules](official-rules.md#eligibility-criteria), the [application-](official-rules.md#eligibility-criteria) and [evaluation criteria](official-rules.md#selection-criteria), as well as the [General Rules](official-rules.md#general-rules) (altogether known as “Official Rules”).
 
@@ -78,7 +78,7 @@ For the top 5 companies, the award will be distributed in the following three pa
 
 _\*The dynamic awards amount is depending on the campaign performance._&#x20;
 
-_\*To determine the number of XLM equal to the USD value of any Award, the USD valuation of XLM shall be calculated using the CF Stellar Lumens-Dollar Settlement Price as administered, maintained, and reported by the cryptocurrency index provider CF Benchmarks Ltd. (using the ticker “XLMUSD\_RR”) (available at https://www.cfbenchmarks.com/indices/XLMUSD\_RR), or, if such settlement price is unavailable or reasonably suspected by the SDF to be unreliable, the settlement price as reported on a substantially similar and equally reputable cryptocurrency index provider as determined by the SDF in its discretion. The USD valuation of XLM for any particular Award shall be calculated using the CF Stellar Lumens-Dollar Settlement Price (or other agreed upon settlement price) reported on the day such Award is paid. The Participants acknowledge and understand that XLM is a highly risky and volatile asset, and that the SDF does not provide any representations, warranties, or guarantees of its value._
+{% include "../../.gitbook/includes/xlm-award-valuation-disclaimer.md" %}
 
 \*\*The dynamic awards amount is depending on the campaign performance.
 
@@ -150,7 +150,7 @@ Participants acknowledge and understand that XLM is a highly risky and volatile 
 
 The SDF reserves the right, in their sole discretion, to cancel, suspend and/or modify the SCF Growth Hack Program, or any part of it including any or all Awards or the Official Rules for any reason.
 
-SCF Growth Hack Program is governed by the [SDF Terms of Service](https://www.stellar.org/terms-of-service) and the Official Rules. If there is any conflict or inconsistency between SDF Terms of Service and the Official Rules, the Official Rules will prevail. If there is any discrepancy or inconsistency between the terms and conditions of the Official Rules and disclosures or other statements contained in any SCF Growth Hack Program materials, including but not limited to the SCF Growth Hack Program Submission form, Stellar.org Website, then the Official Rules shall prevail.
+SCF Growth Hack Program is governed by the [SDF Terms of Service](https://www.stellar.org/terms-of-service) and the Official Rules. If there is any conflict or inconsistency between the SDF Terms of Service and the Official Rules, the Official Rules will prevail. If there is any discrepancy or inconsistency between the terms and conditions of the Official Rules and disclosures or other statements contained in any SCF Growth Hack Program materials, including but not limited to the SCF Growth Hack Program Submission form, Stellar.org Website, then the Official Rules shall prevail.
 
 The terms and conditions of the Official Rules are subject to change at any time, including the rights or obligations of the Participants and the SDF. The SDF will post the terms and conditions of the amended Official Rules on the Stellar Website. To the fullest extent permitted by law, any amendment will become effective at the time specified in the posting of the amended Official Rules or, if no time is specified, the time of posting.
 

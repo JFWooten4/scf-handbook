@@ -8,7 +8,7 @@ hidden: true
 
 #### 1. Program Overview
 
-The SCF Referral Program (“Referral Program”) enables approved individuals or organizations (“Referrers”) to recommend prospective applicants (“Referred Parties”) to the Stellar Community Fund (together with its governance body, “SCF”). Referrals are tracked via unique referral codes and/or a referral submission form. The specific rules and terms below (“Referral Rules”) supplement the SCF Official Rules and SCF Handbook, which are incorporated herein by reference, and help define the relationship among Stellar Development Foundation (“SDF”, “we”, or “us”), SCF, the Referrers and the Referred Parties. The Referrers and the Referred Parties represent and warrant respectively that you have read and understood the Referral Rules, the SCF Official Rules and the SCF Handbook, have consulted any necessary independent advisors and agree to comply with all applicable terms and requirements.
+The SCF Referral Program (“Referral Program”) enables approved individuals or organizations (“Referrers”) to recommend prospective applicants (“Referred Parties”) to the Stellar Community Fund (together with its governance body, “SCF”). Referrals are tracked via unique referral codes and/or a referral submission form. The specific rules and terms below (“Referral Rules”) supplement the SCF Official Rules and SCF Handbook, which are incorporated herein by reference, and help define the relationship among the Stellar Development Foundation (“the SDF”, “we”, or “us”), SCF, the Referrers and the Referred Parties. The Referrers and the Referred Parties represent and warrant respectively that you have read and understood the Referral Rules, the SCF Official Rules and the SCF Handbook, have consulted any necessary independent advisors and agree to comply with all applicable terms and requirements.
 
 #### 2. Eligibility
 
@@ -38,9 +38,9 @@ The SCF Referral Program (“Referral Program”) enables approved individuals o
 
 At SCF’s sole discretion, a Referrer may be offered the option to receive a Referral Reward through one or more alternative methods, which may include, without limitation: (i) direct disbursement of funds to the Referrer; (ii) disbursement of the Referral Reward to a named project; in each case as approved by SCF.&#x20;
 
-Referrers are not eligible to receive additional Referral Rewards for any subsequent funding of the same project, including any follow-on SCF funding, funding from the SDF Matching Fund, or funding from the SDF Enterprise Fund. SCF may, in its sole discretion, allow multiple Referrers to share a referral reward, provided that the total combined reward does not exceed the 1% cap. The determination of whether a referral is “successful,” whether a Referral Reward will be offered, and the calculation of any Referral Reward shall be made solely by SCF and shall be final and binding.
+Referrers are not eligible to receive additional Referral Rewards for any subsequent funding of the same project, including any follow-on SCF funding, funding from SDF Matching Fund, or funding from SDF Enterprise Fund. SCF may, in its sole discretion, allow multiple Referrers to share a referral reward, provided that the total combined reward does not exceed the 1% cap. The determination of whether a referral is “successful,” whether a Referral Reward will be offered, and the calculation of any Referral Reward shall be made solely by SCF and shall be final and binding.
 
-Current employees of the SDF are not eligible to receive any Referral Rewards.
+Current SDF employees are not eligible to receive any Referral Rewards.
 
 4.5 Tax, Compliance, and Verification. Referrers are solely responsible for any tax, reporting, or compliance obligations arising from the Referral Rewards. Referrers must complete all applicable KYC/KYB processes as required by the SDF before receiving any Referral Rewards.
 
@@ -80,7 +80,7 @@ Current employees of the SDF are not eligible to receive any Referral Rewards.
 
 #### 9. Disclaimers
 
-9.1 No Agency. Referrers act solely as independent participants in the Referral Program and are not agents, representatives, or employees of SDF/SCF unless separately engaged in such a capacity under a formal agreement. Referrers do not have authority to bind SCF or the SDF in any way.
+9.1 No Agency. Referrers act solely as independent participants in the Referral Program and are not agents, representatives, or SDF employees and SCF unless separately engaged in such a capacity under a formal agreement. Referrers do not have authority to bind SCF or the SDF in any way.
 
 9.2 No Warranty. The Referral Program and any associated benefits, including Referral Rewards and recognition, are provided “as is”, at SCF’s sole discretion, and may be modified, paused, or discontinued at any time without notice. SCF and the SDF make no representations or warranties, express or implied, regarding the Referral Program, including its availability, suitability, or any specific outcomes.
 

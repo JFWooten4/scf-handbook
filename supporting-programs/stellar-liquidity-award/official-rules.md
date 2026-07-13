@@ -22,7 +22,7 @@ Financial protocols who have completed an audit and have a live implementation o
 In order to be invited to submit an application to the Liquidity Awards Program and qualify for an initial Liquidity Award, Projects must meet the following criteria:
 
 * **Business Criteria**: Projects must have a fully functioning financial protocol/application deployed on Stellar mainnet that demonstrates a viable use case, business model, and show potential for adoption from either users and/or community.
-* **Technical Criteria**: Projects must have a completed valid security audit from an audit firm recognized by the SDF, with any outstanding vulnerabilities and issues resolved.
+* **Technical Criteria**: Projects must have a completed valid security audit from an SDF recognized audit firm, with any outstanding vulnerabilities and issues resolved.
 * **Legal Criteria**: Projects must have passed the SDF’s KYC, Risk Assessment, and Due Diligence checks.<br>
 
 In order to also qualify for the Supplemental Liquidity Award, Projects must have met the initial Liquidity Award criteria as stated above, received an initial Liquidity Award and then also meet the following criteria:
@@ -81,7 +81,7 @@ Participants acknowledge and understand that XLM is a highly risky and volatile 
 
 The SDF reserves the right, in their sole discretion, to cancel, suspend and/or modify the Liquidity Award Program, or any part of it including any or all Awards or the Official Rules for any reason.
 
-The Liquidity Award Program is governed by the [SDF Terms of Service](https://www.stellar.org/terms-of-service) and the Official Rules. If there is any conflict or inconsistency between SDF Terms of Service and the Official Rules, the Official Rules will prevail. If there is any discrepancy or inconsistency between the terms and conditions of the Official Rules and disclosures or other statements contained in any Liquidity Award Program materials, including but not limited to the Liquidity Award Program Submission form, Stellar.org Website, then the Official Rules shall prevail.
+The Liquidity Award Program is governed by the [SDF Terms of Service](https://www.stellar.org/terms-of-service) and the Official Rules. If there is any conflict or inconsistency between the SDF Terms of Service and the Official Rules, the Official Rules will prevail. If there is any discrepancy or inconsistency between the terms and conditions of the Official Rules and disclosures or other statements contained in any Liquidity Award Program materials, including but not limited to the Liquidity Award Program Submission form, Stellar.org Website, then the Official Rules shall prevail.
 
 The terms and conditions of the Official Rules are subject to change at any time, including the rights or obligations of the Participants and the SDF. The SDF will post the terms and conditions of the amended Official Rules on the Stellar Website. To the fullest extent permitted by law, any amendment will become effective at the time specified in the posting of the amended Official Rules or, if no time is specified, the time of posting.
 

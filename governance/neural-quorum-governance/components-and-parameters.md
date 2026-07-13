@@ -61,7 +61,7 @@ Weight attribution methods of each Neuron in SCF’s implementation are designed
 | SCF Project             | 1.0          |
 | Public Good Contributor | 1.0          |
 | Moderator               | 1.0          |
-| SDF                     | 1.0          |
+| the SDF                     | 1.0          |
 | Tier 1 Validator        | 1.0          |
 | \[Region] Ambassador    | 0.5          |
 
